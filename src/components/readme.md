@@ -1,5 +1,5 @@
-#COMPONENTS
+# COMPONENTS
 
-Each component i.e every reusable piece of code goes here
+Each component i.e every reusable piece of code goes here. It can be anything.
 
-it can be anything that's reusable
+> if it can be reusable it must be made a separate code so as to make it truly reusable

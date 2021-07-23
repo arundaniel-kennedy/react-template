@@ -8,7 +8,7 @@ This will install all the packages required to run react given you already insta
 
 `npm start`
 
-Everything else is as follows. Remember to leave everything below this and remove everything above this. Happy coding!
+Everything else is as follows. Remember to leave everything below this and remove everything above this. Also remove all other readme files. Happy coding!
 
 # Getting Started with Create React App
 
