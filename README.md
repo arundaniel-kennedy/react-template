@@ -1,3 +1,14 @@
+#Hi there!
+This is a simple ready to go template for react. I created this so I can keep track of best ways to structure my code. If you are using this template, remove this piece of info without fail. This template has bootstrap and sass (Dart-sass and sass) built into it. To start with the project download this repo and copy the contents of this repo where you want it to be and run
+
+`npm install`
+
+This will install all the packages required to run react given you already installed node.js from the [Node.js](https://nodejs.org/en/) website. Now you start the app normally using
+
+`npm start`
+
+Everything else is as follows. Remember to leave everything below this and remove everything above this. Happy coding!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
