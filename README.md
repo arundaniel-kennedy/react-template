@@ -1,4 +1,5 @@
-#Hi there!
+# Hi there!
+
 This is a simple ready to go template for react. I created this so I can keep track of best ways to structure my code. If you are using this template, remove this piece of info without fail. This template has bootstrap and sass (Dart-sass and sass) built into it. To start with the project download this repo and copy the contents of this repo where you want it to be and run
 
 `npm install`
