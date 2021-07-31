@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div className="App theme--dark">
-      hello
+      hello this is a react template
     </div>
   );
 }
